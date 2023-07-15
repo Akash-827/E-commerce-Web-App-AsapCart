@@ -28,7 +28,7 @@ const ProductList = [{
   id:'usdff2'
 },
 {
-  name:'LG Ultragear - 32Gn650 Qhd 32 Inch',
+  name:'LG Ultragear32 Inch',
   price:24498,
   imgSrc:'https://www.sgltechno.com/wp-content/uploads/2022/11/32gn650-b-image-03-600x600-1.webp',
   id:'lser3'
